@@ -1,0 +1,129 @@
+DevOps Engineer Monthly Planner (Free Resources Only)
+🔹 Month 1: Foundations (Linux, Git, DevOps Basics)
+Week 1 – DevOps Concepts & Linux
+🔹 DevOps Full Course – FreeCodeCamp
+
+🔹 LinuxJourney.com
+
+✅ Practice: Install Ubuntu using WSL or use AWS Free Tier EC2.
+
+Week 2 – Bash & Shell Scripting
+🔹 Bash Beginner Guide
+
+🔹 The Bash Guide
+
+✅ Practice writing scripts for file backup, text parsing, cron jobs.
+
+Week 3 – Git & GitHub
+🔹 GitHub Learning Lab
+
+🔹 Git Handbook
+
+✅ Create a repo, push/pull code, merge branches.
+
+Week 4 – AWS Basics (Free Tier)
+🔹 AWS Free Tier
+
+🔹 AWS Cloud Practitioner Course (YouTube)
+
+✅ Launch EC2, S3, IAM user, and deploy a static website on S3.
+
+🔹 Month 2: CI/CD, Docker, Jenkins
+Week 5 – CI/CD Fundamentals
+🔹 GitHub Actions Docs
+
+🔹 CI/CD with GitHub Actions (YouTube)
+
+✅ Create a basic pipeline: Build → Test → Deploy HTML app.
+
+Week 6 – Jenkins
+🔹 Jenkins Beginner Tutorial
+
+🔹 Jenkins Docs
+
+✅ Create and run a Jenkins pipeline on localhost or EC2.
+
+Week 7 – Docker
+🔹 Docker Official Tutorial
+
+🔹 FreeCodeCamp Docker Course
+
+✅ Create Dockerfile for a Python/Flask app and run it in a container.
+
+Week 8 – Docker Compose
+🔹 Docker Compose Guide
+
+✅ Build a multi-container app (Flask + Redis + Nginx).
+
+🔹 Month 3: Kubernetes, IaC with Terraform & Ansible
+Week 9 – Kubernetes Basics
+🔹 Kubernetes in 100 Seconds
+
+🔹 Kubernetes Official Docs
+
+✅ Practice on: Play with K8s
+
+Week 10 – Kubernetes Hands-on
+🔹 Kubernetes Bootcamp
+
+✅ Deploy Docker app using kubectl, services, deployments.
+
+Week 11 – Terraform Basics
+🔹 FreeCodeCamp Terraform Course
+
+🔹 Terraform Docs
+
+✅ Write Terraform files to deploy EC2 instance on AWS Free Tier.
+
+Week 12 – Ansible Automation
+🔹 Ansible for Beginners – FreeCodeCamp
+
+🔹 Ansible Getting Started
+
+✅ Write playbooks to install Docker/Nginx on remote EC2.
+
+🔹 Month 4: SRE, Monitoring, Projects
+Week 13 – SRE Concepts
+🔹 Google SRE Book (Free)
+
+🔹 Learn about SLAs, SLOs, SLIs, error budgets.
+
+✅ Create your own error budget report format.
+
+Week 14 – Monitoring & Logging
+🔹 Prometheus & Grafana Setup (YouTube)
+
+✅ Monitor a containerized app using Prometheus + Grafana.
+
+Week 15 – Logging and Alerting
+🔹 ELK Stack Guide
+
+🔹 Grafana Loki (YouTube)
+
+✅ Set up basic logging stack for Flask/Django app.
+
+Week 16 – Final DevOps Project (Portfolio Ready)
+Project Idea:
+
+Deploy a web app on AWS EC2.
+
+Use Terraform for provisioning.
+
+Configure CI/CD with GitHub Actions or Jenkins.
+
+Dockerize the app.
+
+Orchestrate with Kubernetes.
+
+Monitor with Prometheus & Grafana.
+
+Add logs using Loki or ELK.
+
+Push everything to GitHub with documentation.
+
+📌 Bonus Tips
+Join r/devops, Stack Overflow DevOps tag
+
+Network on LinkedIn with #DevOps and #CloudEngineering
+
+Keep all projects on GitHub + write a blog post for each.
